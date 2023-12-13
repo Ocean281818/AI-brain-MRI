@@ -6,7 +6,7 @@
 https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation/data    
 由于训练模型需要9.9小时左右，所以直接提供model：   
 https://www.kaggle.com/code/tmamirulhaquebhuiyan/braintumorunet/output      
-out文件夹里面是部分预测输出对比图片
+out文件夹里面是部分预测输出对比图片（失真0.55，所以预测效果并不是很好，因为模型只训练了1小时）
 
 
 
